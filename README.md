@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Sagar Sawant
 
-Welcome to my GitHub profile! I'm a **mathematician** with a passion for exploring the elegant intersections of **algebraic combinatorics** and **graph algorithms**. 🎓 I recently completed my **PhD in Mathematics**, where I delved into the fascinating world of distinguishing graphs using symmetric and quasisymmetric functions.
+Welcome to my GitHub profile! I'm a **mathematician** with a passion for exploring the elegant intersections of **Algebraic Combinatorics** and **Graph Algorithms**. 🎓 I recently completed my **PhD in Mathematics**, where I studied graphs and digraphs isomorphism problems using symmetric and quasisymmetric functions.
 
 ## 🌱 About Me
-- 🧮 **Research Interests**: Algebraic Combinatorics, Graph Theory, Algorithms, and their beautiful applications.
+- 🧮 **Research Interests**: Algebraic Combinatorics, Graph Theory, Algorithms, and their applications.
 - 🎶 Apart from math, I enjoy playing the **tabla** (I'm a Sangeet Visharad!) and listening to classical **Hindustani** and **Carnatic music**.
 - 🥏 I love playing **ultimate frisbee** and board games like **Catan**, **Saboteur**, and **Agricola**.
 
@@ -18,7 +18,7 @@ This repository is special because its `README.md` is designed to welcome you to
 
 ### 🔗 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sagar-sawant)  
-- 🌐 [Personal Website](#) *(https://s-s-sawant.github.io)*  
-- 📝 [Google Scholar](#) *(https://scholar.google.com/citations?user=oqSegFMAAAAJ&hl=en)*  
+- 🌐 [Personal Website](https://s-s-sawant.github.io)  
+- 📝 [Google Scholar](https://scholar.google.com/citations?user=oqSegFMAAAAJ&hl=en)   
 
 Thanks for visiting, and happy coding! 🚀
